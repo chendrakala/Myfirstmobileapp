@@ -27,8 +27,8 @@ sap.ui.jsview("ealabsapp02.Thirdpage", {
 	                { Name: "Address : "},  
 	                { Name: "H.Phone Number : "},
 	                { Name: "B.Phone Number : "},
-	                { Name: "Email : "}
-	                              
+	                { Name: "Email : "},
+	                { Name: "Home Fax : "}	                              
 	            ]  
 	        };
 		
